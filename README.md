@@ -27,4 +27,5 @@ Block tampering demands recomputation of all subsequent hashes, which is computa
 Consensus mechanisms ensure nodes maintain a synchronized and valid version of the blockchain.
 
 https://medium.com/@hellodadedaud/id-evaluasi-ilmiah-struktur-data-blockchain-sebagai-sistem-pencatatan-terdistribusi-modern-2e6efa317443
+
 https://medium.com/@hellodadedaud/en-scientific-evaluation-of-blockchain-data-structures-as-a-modern-distributed-ledger-system-8829dc1794a4
